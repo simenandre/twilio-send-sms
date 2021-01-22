@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignore config.yml – nobody wants that in git bro'
+config.yml

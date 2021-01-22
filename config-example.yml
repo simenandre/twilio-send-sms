@@ -1,0 +1,9 @@
+twilio:
+  accountSid: xxxx
+  authToken: zzzz
+
+from: cobraz
+message: Hello there! Nice to see you!
+
+numbers:
+ - +4795308087
