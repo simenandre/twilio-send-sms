@@ -1,8 +1,9 @@
 {
   "name": "send-sms",
   "version": "1.0.0",
-  "main": "index.js",
+  "repository": "github:simenandre/twilio-send-sms",
   "license": "MIT",
+  "main": "index.js",
   "dependencies": {
     "twilio": "^3.55.0",
     "yaml": "^1.10.0"
